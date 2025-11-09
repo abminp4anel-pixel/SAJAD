@@ -23,4 +23,10 @@
         "expirydate": "15-06-2078",
         "Allowoffline": false
    },
+   {
+        "device_id": "64fc6c0b24808ac7",
+        "key": "aboLi",
+        "expirydate": "15-06-2077",
+        "Allowoffline": false
+    },      
 ]
