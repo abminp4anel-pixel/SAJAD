@@ -6,8 +6,14 @@
         "Allowoffline": true
     },
     {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "980d93bfa3ea133f",
-        "key": "saji",
+        "key": "SaJi",
         "expirydate": "15-06-2079",
         "Allowoffline": false
     },
@@ -16,5 +22,5 @@
         "key": "Xone",
         "expirydate": "15-06-2078",
         "Allowoffline": false
-    },
+   },
 ]
