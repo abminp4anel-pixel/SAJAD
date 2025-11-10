@@ -28,5 +28,11 @@
         "key": "aboLi",
         "expirydate": "15-06-2077",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f8c393d522365204",
+        "key": "OFisSs",
+        "expirydate": "15-06-2076",
+        "Allowoffline": false
     },      
 ]
