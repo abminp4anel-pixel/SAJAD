@@ -47,4 +47,10 @@
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
+    {
+        "device_id": "c5abaa318d498a9e",
+        "key": "KhodaEshg",
+        "expirydate": "15-06-2066",
+        "Allowoffline": false
+    },
 ]
